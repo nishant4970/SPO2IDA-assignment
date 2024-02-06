@@ -1,5 +1,6 @@
 
-# This code explains the backbone curve of a 6 storey strong-infilled frame
+# This code explains the development of a %50 fractile of the IDA responses of the extended SPO2IDA model for a 6-storey strong infilled frame using analytical formulas
+
 duct_points = [1, 2.35, 2.6, 3.35, 7] #this list contains the values of ductility at points where the SPO backbone curve changes its direction
 
 # 1. For Hardening branch:
